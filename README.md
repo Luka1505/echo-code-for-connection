@@ -18,11 +18,12 @@ Client–Server layered architecture with REST APIs and MongoDB data storage.
 # How to Run
 
 ## Frontend
-npm install
-npm run dev
+-npm install
+-npm run dev
 
 ## Backend
-cd backend
-pip install -r requirements.txt
-python app.py﻿# ECHO – Emotional Reflection Platform
+-cd backend
+-pip install -r requirements.txt
+-python app.py﻿# ECHO – Emotional Reflection Platform
+
 
